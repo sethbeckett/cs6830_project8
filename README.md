@@ -1,4 +1,4 @@
-# cs6830_project8
+# Project 8 CS6830
 
 Link to report [here](https://docs.google.com/document/d/1cGH9aa22glTdCQylkFmoqpRThYn0WbgipMfSI23jowQ/edit?usp=sharing)
 
